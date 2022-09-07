@@ -1,5 +1,7 @@
 # next-generation-user-interface
  Developed the classic boardgame, ‘Battleship’ using augmented reality to bring the experience of the real physical game to a remote environment.
+ A demo of the project is available on YouTube with the following URL: 
+ https://youtu.be/ArHCszSe0u4
  
  # ProjectRemoteBattleship
 
